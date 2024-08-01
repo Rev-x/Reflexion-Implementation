@@ -1,13 +1,10 @@
-<<<<<<< HEAD
-# Reflexion-Implementation
-=======
 
 # Reflexion Pipeline
 
-This project implements a Reflexion Pipeline, which allows for iterative task refinement and evaluation. `<br>`
-this file can be used as a module in your own computer `<br>`
-just clone the repo and use the file path as a module(better keep this file in your directory where you are trying to import it) `<br>`
-still a work in progress a lot of optimizations and work is in progress `<br>`
+This project implements a Reflexion Pipeline, which allows for iterative task refinement and evaluation.
+this file can be used as a module in your own computer
+just clone the repo and use the file path as a module(better keep this file in your directory where you are trying to import it)
+still a work in progress a lot of optimizations and work is in progress
 
 ## Usage
 
@@ -49,4 +46,3 @@ The `reflexion_loop` method returns three values:
 ## Note
 
 Make sure to define your `task` variable with an appropriate prompt or task description before running the reflexion loop.
->>>>>>> 75cab0e ([adding all files])
