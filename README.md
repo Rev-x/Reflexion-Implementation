@@ -1,8 +1,8 @@
 
 # Reflexion Pipeline
 
-This project implements a Reflexion Pipeline, which allows for iterative task refinement and evaluation.
-this file can be used as a module in your own computer
+This project implements the **Reflexion Pipeline** from the paper ![Reflexion](https://arxiv.org/abs/2303.11366) , which allows for iterative task refinement and evaluation.
+this file can be used as a module in your own Directories
 just clone the repo and use the file path as a module(better keep this file in your directory where you are trying to import it)
 still a work in progress a lot of optimizations and work is in progress
 
