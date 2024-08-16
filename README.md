@@ -5,6 +5,7 @@ This project implements the **Reflexion Pipeline** from the paper ![Reflexion](h
 this file can be used as a module in your own Directories
 just clone the repo and use the file path as a module(better keep this file in your directory where you are trying to import it)
 still a work in progress a lot of optimizations and work is in progress
+Feel free to suggest ideas/thoughts.
 
 ## Usage
 
